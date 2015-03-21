@@ -1,6 +1,0 @@
-08:47:41 **** Incremental Build of configuration newlib for project Mem ****
-make -r all 
-make: Nothing to be done for `all'.
-
-08:47:41 Build Finished (took 63ms)
-
